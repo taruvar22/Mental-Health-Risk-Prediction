@@ -1,0 +1,1434 @@
+Age,Gender,family_history,remote_work,no_employees,target
+39,Male,No,Sometimes,26-100,No
+29,male,Yes,Never,6-25,Yes
+38,Male ,No,Always,6-25,No
+43,male,No,Sometimes,,Yes
+43,Female,Yes,Sometimes,6-25,Yes
+42,Male,No,Sometimes,More than 1000,Yes
+30,M,No,Sometimes,26-100,No
+37,female,Yes,Always,More than 1000,Yes
+44,Female,Yes,Sometimes,26-100,Yes
+30,Male,Yes,Always,,Yes
+28,Male,I don't know,Never,26-100,Yes
+34,Male,Yes,Sometimes,100-500,Yes
+30,Female,Yes,Always,100-500,Yes
+44,Male,No,Sometimes,100-500,Maybe
+35,Male,Yes,Always,100-500,Yes
+52,m,Yes,Sometimes,100-500,Yes
+32,I identify as female.,Yes,Always,26-100,Yes
+34,Male,No,Never,500-1000,No
+25,female ,I don't know,Always,,Yes
+31,M,Yes,Sometimes,100-500,Yes
+26,Male,Yes,Sometimes,6-25,No
+35,male,No,Never,More than 1000,No
+25,male,I don't know,Sometimes,26-100,No
+33,Male,Yes,Sometimes,1-5,No
+38,Male,No,Sometimes,,No
+42,male,No,Never,100-500,No
+27,Male,I don't know,Sometimes,26-100,Yes
+35,male,No,Never,100-500,Maybe
+34,female,Yes,Never,500-1000,Maybe
+32,Bigender,Yes,Never,6-25,Yes
+32,non-binary,Yes,Never,100-500,Yes
+30,Male,No,Sometimes,100-500,Yes
+31,Male,I don't know,Never,More than 1000,Maybe
+37,Male ,No,Sometimes,,No
+36,Male,No,Sometimes,26-100,Yes
+33,Male,No,Never,100-500,No
+44,Male,Yes,Always,26-100,Yes
+29,male,No,Never,100-500,Maybe
+29,male,Yes,Sometimes,100-500,Maybe
+44,Male,I don't know,Always,More than 1000,No
+34,Male,Yes,Sometimes,,Yes
+40,male,I don't know,Always,100-500,Yes
+46,Female assigned at birth ,Yes,Never,More than 1000,Yes
+28,M,Yes,Sometimes,,Yes
+41,Male,No,Never,More than 1000,No
+33,male,Yes,Sometimes,6-25,Yes
+32,Male,Yes,Sometimes,,Yes
+45,Male,I don't know,Sometimes,6-25,Maybe
+43,male,Yes,Sometimes,,Maybe
+37,F,No,Always,6-25,Yes
+37,M,I don't know,Never,26-100,Yes
+27,Male,Yes,Sometimes,6-25,No
+31,Male,No,Sometimes,,No
+36,Male,Yes,Sometimes,More than 1000,Yes
+34,Male,No,Always,500-1000,Maybe
+31,Woman,No,Sometimes,More than 1000,No
+30,Male,Yes,Never,26-100,Maybe
+32,Male,Yes,Never,100-500,Maybe
+40,female,I don't know,Sometimes,6-25,Maybe
+40,Male,I don't know,Sometimes,100-500,No
+41,man,I don't know,Sometimes,More than 1000,Maybe
+27,Male,No,Never,26-100,Maybe
+30,Male,No,Sometimes,26-100,No
+29,Male,I don't know,Always,,Maybe
+38,Male,No,Sometimes,,No
+35,male,No,Sometimes,,No
+35,female,Yes,Never,6-25,Yes
+29,M,Yes,Always,More than 1000,Yes
+28,Male,Yes,Never,100-500,No
+27,Male,I don't know,Sometimes,26-100,Maybe
+39,Male,No,Sometimes,,No
+28,male,No,Sometimes,100-500,No
+46,Male,Yes,Sometimes,6-25,No
+40,male,No,Sometimes,1-5,No
+37,Male,Yes,Always,26-100,Maybe
+41,Male,Yes,Sometimes,26-100,No
+19,M,I don't know,Never,,Yes
+38,F,No,Never,6-25,No
+33,Male ,No,Sometimes,26-100,No
+33,Male,Yes,Always,26-100,Yes
+21,male,No,Never,1-5,No
+36,Male,Yes,Never,1-5,Yes
+39,Male,Yes,Sometimes,,Yes
+35,Male,No,Sometimes,26-100,No
+36,male,Yes,Sometimes,,Yes
+45,Male,No,Never,6-25,Maybe
+41,Male,No,Never,26-100,Maybe
+35,Male,I don't know,Sometimes,26-100,Yes
+30,Male,I don't know,Sometimes,,Maybe
+24,Female,Yes,Sometimes,26-100,Yes
+33,Male,I don't know,Never,100-500,No
+35,male,Yes,Sometimes,More than 1000,Maybe
+26,Male,No,Sometimes,6-25,Yes
+17,male,No,Always,6-25,No
+29,Female,No,Sometimes,6-25,Yes
+26,Male,Yes,Sometimes,100-500,Yes
+36,female,No,Always,26-100,No
+46,M,I don't know,Sometimes,26-100,No
+39,Male,Yes,Sometimes,,Yes
+28,Female,Yes,Sometimes,100-500,Yes
+40,Male,No,Sometimes,500-1000,No
+23,Male,I don't know,Sometimes,100-500,Yes
+30,Male,Yes,Sometimes,6-25,No
+28,fm,Yes,Sometimes,26-100,No
+27,Male,I don't know,Never,26-100,Maybe
+31,m,No,Always,,Maybe
+39,f,Yes,Never,26-100,Maybe
+34,Female,Yes,Always,More than 1000,Yes
+30,Male,No,Sometimes,6-25,Yes
+30,male,I don't know,Never,,Yes
+31,Male,No,Sometimes,100-500,Maybe
+30,M,Yes,Always,26-100,Yes
+32,Male,Yes,Sometimes,More than 1000,Maybe
+22,Male,Yes,Sometimes,,No
+37,Female,Yes,Always,,Yes
+51,Male,No,Sometimes,26-100,No
+26,Male,Yes,Sometimes,26-100,Yes
+41,f,Yes,Sometimes,26-100,No
+39,F,Yes,Sometimes,100-500,Yes
+43,M,Yes,Sometimes,6-25,Maybe
+30,M,Yes,Sometimes,500-1000,Maybe
+24,Female,I don't know,Sometimes,26-100,No
+30,m,No,Sometimes,,Yes
+28,Cis female ,Yes,Sometimes,26-100,Yes
+48,Female,I don't know,Sometimes,,Yes
+55,Female,Yes,Always,,Maybe
+36,F,I don't know,Sometimes,1-5,Maybe
+38,Male,No,Sometimes,,No
+34,Male,No,Sometimes,100-500,No
+44,Female,No,Sometimes,26-100,No
+45,Male,I don't know,Sometimes,More than 1000,Maybe
+45,M,I don't know,Sometimes,6-25,Maybe
+30,male,Yes,Sometimes,500-1000,Yes
+34,Male,I don't know,Sometimes,More than 1000,Yes
+37,Male,Yes,Sometimes,More than 1000,No
+38,Male,No,Sometimes,More than 1000,No
+31,Male,No,Sometimes,26-100,Maybe
+33,Male,No,Always,26-100,No
+29,female,I don't know,Sometimes,100-500,Yes
+35,M,Yes,Sometimes,100-500,Yes
+42,"Transitioned, M2F",Yes,Always,1-5,Yes
+26,Female,I don't know,Sometimes,26-100,No
+36,f,Yes,Always,500-1000,Maybe
+21,male,Yes,Never,26-100,Yes
+34,F,I don't know,Sometimes,26-100,Yes
+40,M,I don't know,Always,,Maybe
+35,Male,No,Sometimes,26-100,Yes
+44,Male,No,Sometimes,6-25,No
+35,Genderfluid (born female),Yes,Sometimes,6-25,No
+45,m,No,Sometimes,More than 1000,No
+42,m,No,Sometimes,More than 1000,Yes
+40,Male,I don't know,Always,,Yes
+50,F,No,Always,,No
+36,Male,Yes,Always,100-500,Maybe
+31,female,Yes,Always,,Yes
+29,Male,I don't know,Always,26-100,No
+37,Male,No,Never,100-500,No
+31,m,I don't know,Sometimes,26-100,Yes
+42,Male,No,Always,More than 1000,No
+25,Male,No,Sometimes,500-1000,No
+27,Male,Yes,Sometimes,6-25,Yes
+41,Female,No,Never,More than 1000,Yes
+41,Female,No,Sometimes,100-500,Yes
+55,F,I don't know,Never,More than 1000,No
+21,Male,No,Never,More than 1000,Yes
+37,male,No,Never,More than 1000,No
+34,female,No,Sometimes,More than 1000,No
+40,Male,I don't know,Never,More than 1000,Maybe
+25,male,I don't know,Always,,Maybe
+36,male,No,Sometimes,More than 1000,Maybe
+25,Male,No,Never,26-100,Maybe
+35,male,No,Always,100-500,No
+37,male,I don't know,Always,6-25,No
+45,Male,I don't know,Sometimes,More than 1000,Maybe
+26,Male,Yes,Never,6-25,Yes
+23,Male,No,Sometimes,26-100,No
+22,Female,Yes,Sometimes,26-100,Yes
+46,Female,Yes,Always,26-100,Yes
+31,Male,No,Sometimes,6-25,No
+27,Male,Yes,Always,100-500,Yes
+37,male,I don't know,Sometimes,6-25,No
+37,Male,No,Never,100-500,No
+26,Other/Transfeminine,No,Sometimes,1-5,Maybe
+23,M,Yes,Never,500-1000,No
+40,Male,Yes,Never,26-100,Yes
+29,M,No,Sometimes,1-5,No
+37,Male,I don't know,Sometimes,100-500,Yes
+34,female,Yes,Never,100-500,No
+40,male,No,Sometimes,More than 1000,Yes
+39,Male,No,Sometimes,500-1000,Maybe
+28,Male,Yes,Always,500-1000,Yes
+28,male,No,Sometimes,,Maybe
+27,Male,Yes,Sometimes,26-100,No
+48,Male,No,Sometimes,,Maybe
+49,Female,No,Sometimes,More than 1000,Yes
+35,Male,I don't know,Never,26-100,Yes
+35,Male,Yes,Sometimes,100-500,Yes
+38,Male,Yes,Always,,Yes
+32,Male,Yes,Sometimes,500-1000,No
+42,Male,Yes,Sometimes,More than 1000,Yes
+33,female,Yes,Always,100-500,Maybe
+35,Male,No,Always,26-100,No
+24,M,No,Sometimes,500-1000,Maybe
+29,Female or Multi-Gender Femme,Yes,Sometimes,500-1000,Yes
+29,Male,No,Always,100-500,Maybe
+24,Male,No,Sometimes,6-25,No
+30,Male,Yes,Always,500-1000,No
+30,male,No,Always,26-100,Yes
+44,male,Yes,Always,6-25,Yes
+37,Male,No,Always,100-500,No
+28,Male,No,Sometimes,500-1000,No
+42,Male,Yes,Always,100-500,No
+30,female,Yes,Sometimes,1-5,Yes
+36,m,No,Sometimes,100-500,Maybe
+30,male,No,Sometimes,500-1000,No
+29,Male,No,Always,6-25,No
+25,male,No,Sometimes,500-1000,No
+25,Male,No,Sometimes,26-100,No
+24,Male,No,Never,500-1000,No
+25,m,No,Sometimes,More than 1000,Yes
+31,Male ,I don't know,Never,26-100,Yes
+37,M,Yes,Sometimes,26-100,No
+35,Male,No,Never,100-500,No
+26,female,Yes,Sometimes,6-25,No
+31,Male,I don't know,Always,100-500,No
+29,female,Yes,Always,500-1000,No
+33,M,Yes,Sometimes,26-100,No
+30,M,No,Always,26-100,No
+30,M,I don't know,Sometimes,26-100,Maybe
+29,female,Yes,Never,100-500,Yes
+25,Female,I don't know,Sometimes,26-100,Yes
+27,Male,Yes,Never,More than 1000,No
+26,Male,No,Sometimes,500-1000,No
+38,Female,Yes,Always,500-1000,No
+49,Male,Yes,Sometimes,More than 1000,Yes
+30,Male,Yes,Sometimes,26-100,No
+34,male,I don't know,Sometimes,,Maybe
+31,male,No,Never,100-500,No
+29,Male,Yes,Sometimes,,Maybe
+31,m,No,Sometimes,100-500,No
+34,male,I don't know,Never,100-500,Maybe
+28,Male,No,Sometimes,6-25,No
+35,Female ,Yes,Always,,No
+27,Male ,I don't know,Always,500-1000,No
+33,m,No,Sometimes,,No
+37,Female,I don't know,Sometimes,6-25,Maybe
+45,Male,No,Sometimes,More than 1000,Yes
+31,woman,Yes,Always,6-25,Yes
+36,M,No,Never,More than 1000,No
+30,M,Yes,Never,500-1000,Yes
+33,female,Yes,Sometimes,More than 1000,Yes
+45,female,I don't know,Always,500-1000,Yes
+30,Female,Yes,Sometimes,26-100,Yes
+30,male,Yes,Sometimes,26-100,Yes
+29,Male,Yes,Always,,Yes
+36,Male,Yes,Sometimes,1-5,No
+28,Male,Yes,Never,26-100,Maybe
+36,Male,No,Sometimes,26-100,Yes
+37,female,Yes,Sometimes,500-1000,Maybe
+29,Male,Yes,Sometimes,26-100,Maybe
+25,Male,Yes,Sometimes,26-100,Yes
+34,f,No,Sometimes,26-100,No
+37,M,No,Sometimes,More than 1000,No
+40,Female,Yes,Sometimes,More than 1000,Yes
+32,Male,No,Always,100-500,Maybe
+38,Male,No,Never,26-100,No
+31,Female,Yes,Sometimes,26-100,Yes
+28,female,Yes,Sometimes,26-100,No
+27,female,Yes,Sometimes,100-500,Yes
+28,female,No,Sometimes,26-100,Yes
+26,Male,Yes,Always,6-25,Yes
+40,Male,Yes,Sometimes,26-100,No
+42,Male,No,Sometimes,More than 1000,Yes
+36,Male,I don't know,Never,26-100,No
+44,male,Yes,Never,,Maybe
+24,Male,I don't know,Never,500-1000,Yes
+44,Male,I don't know,Never,100-500,Maybe
+31,Male,No,Always,More than 1000,Yes
+49,m,Yes,Sometimes,,Maybe
+27,female/woman,Yes,Sometimes,26-100,No
+27,Cis male,Yes,Always,More than 1000,No
+28,Male,No,Sometimes,100-500,No
+20,Female,Yes,Never,6-25,Maybe
+41,Male ,Yes,Always,,No
+38,Male,I don't know,Sometimes,100-500,Yes
+29,male,Yes,Never,100-500,Yes
+44,f,Yes,Always,100-500,Yes
+31,Male.,I don't know,Sometimes,500-1000,No
+54,m,Yes,Sometimes,6-25,Yes
+33,m,Yes,Sometimes,500-1000,No
+29,male,No,Never,6-25,No
+26,Androgynous,I don't know,Sometimes,26-100,Maybe
+26,male,Yes,Never,26-100,Maybe
+34,Male,I don't know,Sometimes,,Yes
+38,Female,Yes,Sometimes,100-500,Maybe
+30,Male,Yes,Sometimes,100-500,Yes
+34,Male,Yes,Sometimes,,Yes
+47,F,Yes,Sometimes,More than 1000,Yes
+33,Female,Yes,Sometimes,100-500,No
+22,Male,No,Sometimes,More than 1000,No
+28,"male 9:1 female, roughly",I don't know,Never,6-25,Maybe
+31,m,Yes,Always,500-1000,Yes
+24,,Yes,Sometimes,More than 1000,Yes
+56,m,No,Sometimes,1-5,No
+57,F,Yes,Always,,Yes
+39,M,No,Always,100-500,No
+21,Male,Yes,Never,1-5,No
+31,female,No,Sometimes,500-1000,No
+63,Male,No,Always,,Yes
+46,male,Yes,Always,,Yes
+32,Female,Yes,Never,6-25,Yes
+35,m,Yes,Sometimes,,Yes
+34,Male,No,Sometimes,100-500,No
+35,male,Yes,Always,6-25,Yes
+31,Male,No,Sometimes,26-100,No
+35,F,Yes,Always,,Yes
+36,Male,No,Sometimes,26-100,No
+50,Male,Yes,Sometimes,26-100,No
+31,Male,Yes,Sometimes,6-25,Yes
+47,male,Yes,Never,100-500,No
+32,Female,No,Never,6-25,No
+23,Female,Yes,Never,26-100,Yes
+43,Female,Yes,Sometimes,6-25,Yes
+26,Female,Yes,Sometimes,6-25,No
+26,female,Yes,Never,26-100,Maybe
+55,Female,No,Sometimes,6-25,No
+27,Male,No,Never,6-25,Yes
+34,Male,Yes,Always,100-500,No
+25,Male,Yes,Never,26-100,No
+35,male,No,Sometimes,26-100,No
+37,Male,No,Sometimes,,Yes
+38,Female,I don't know,Sometimes,26-100,Yes
+29,male,I don't know,Never,26-100,Maybe
+28,Male,Yes,Always,500-1000,Maybe
+29,Male,Yes,Always,6-25,Maybe
+40,male,Yes,Always,More than 1000,Maybe
+25,Female,No,Sometimes,26-100,Yes
+29,Male,No,Sometimes,,Maybe
+29,F,Yes,Sometimes,26-100,Yes
+35,M,No,Sometimes,1-5,Yes
+25,Male,I don't know,Sometimes,,No
+43,Male,No,Sometimes,26-100,Yes
+26,Male,No,Never,6-25,No
+31,male,No,Never,100-500,Maybe
+31,female,Yes,Always,100-500,No
+45,F,I don't know,Always,More than 1000,Yes
+23,Male,I don't know,Never,More than 1000,Maybe
+39,Male,I don't know,Never,6-25,No
+27,Female,Yes,Sometimes,26-100,No
+28,Male,Yes,Sometimes,100-500,Yes
+36,Male,No,Always,500-1000,Maybe
+22,male,No,Never,100-500,No
+51,Male,I don't know,Never,1-5,No
+39,Male,No,Sometimes,,Maybe
+36,Male,Yes,Sometimes,,Yes
+28,male,Yes,Sometimes,More than 1000,Yes
+40,M,No,Always,100-500,No
+35,Female,I don't know,Sometimes,26-100,Yes
+38,Male,Yes,Never,100-500,Yes
+29,Male,Yes,Always,100-500,Maybe
+43,M,No,Sometimes,,No
+31,f,Yes,Always,500-1000,Yes
+45,male,No,Sometimes,100-500,No
+26,Male,Yes,Sometimes,100-500,Maybe
+42,Male,No,Always,100-500,No
+28,f,No,Always,100-500,No
+28,Male,Yes,Sometimes,6-25,No
+39,female,Yes,Sometimes,100-500,Yes
+34,Male (cis),No,Sometimes,6-25,No
+28,Female,Yes,Always,26-100,Yes
+35,Female,No,Sometimes,500-1000,No
+42,male,No,Sometimes,6-25,No
+99,Other,Yes,Sometimes,6-25,Yes
+29,Male,No,Always,,Maybe
+34,Male ,I don't know,Sometimes,,Yes
+28,Male,Yes,Always,26-100,No
+22,F,No,Sometimes,500-1000,No
+28,female,Yes,Sometimes,26-100,Yes
+26,Female,Yes,Always,,Yes
+21,Female ,Yes,Never,More than 1000,Maybe
+38,male,Yes,Never,26-100,Yes
+33,M,Yes,Sometimes,More than 1000,Yes
+28,Female,Yes,Sometimes,100-500,Yes
+32,Male,I don't know,Sometimes,26-100,Yes
+24,Female,I don't know,Sometimes,1-5,Yes
+35,male,Yes,Always,500-1000,Maybe
+41,Male,No,Sometimes,,No
+38,F,Yes,Always,,No
+24,Female,Yes,Sometimes,More than 1000,Yes
+30,Male,Yes,Sometimes,100-500,Yes
+47,female,No,Sometimes,100-500,No
+26,female,No,Never,More than 1000,No
+32,Male,I don't know,Always,100-500,Yes
+32,Male,Yes,Sometimes,100-500,Maybe
+37,male,I don't know,Always,500-1000,Yes
+33,male,No,Sometimes,,No
+28,f,I don't know,Sometimes,6-25,Maybe
+22,man,No,Never,26-100,No
+30,Male,Yes,Sometimes,500-1000,Yes
+42,Female,Yes,Always,,No
+34,male,I don't know,Never,100-500,No
+32,Male,No,Sometimes,6-25,Maybe
+37,male,Yes,Always,100-500,Yes
+31,Female,Yes,Always,,No
+31,Male,Yes,Always,26-100,Yes
+26,male,I don't know,Always,26-100,No
+30,Male,I don't know,Sometimes,,Maybe
+36,m,Yes,Sometimes,100-500,Yes
+38,Male,Yes,Always,100-500,No
+24,Male,No,Sometimes,26-100,Yes
+26,male,I don't know,Sometimes,100-500,Yes
+37,Male,Yes,Never,More than 1000,Maybe
+27,Female,Yes,Never,26-100,Yes
+32,Male,No,Always,,No
+32,Male,No,Never,26-100,No
+30,Male,I don't know,Never,6-25,Yes
+26,Female,No,Always,26-100,Yes
+27,Female,Yes,Never,,Yes
+27,Male,I don't know,Always,,Yes
+29,Male,Yes,Always,26-100,Maybe
+26,nb masculine,Yes,Never,26-100,Yes
+23,Female,No,Never,100-500,No
+30,Male,Yes,Sometimes,100-500,No
+40,M,Yes,Sometimes,More than 1000,Yes
+46,male,I don't know,Sometimes,100-500,Maybe
+26,Male,No,Sometimes,26-100,No
+30,m,I don't know,Sometimes,More than 1000,No
+27,f,No,Always,100-500,No
+35,male,Yes,Always,,Yes
+26,Cisgender Female,Yes,Sometimes,26-100,Yes
+35,Male,Yes,Always,100-500,No
+29,Male,Yes,Never,26-100,Yes
+34,Male,No,Sometimes,100-500,No
+27,male,No,Sometimes,,No
+39,Male,No,Sometimes,100-500,Maybe
+27,Male,No,Sometimes,100-500,No
+31,Male,No,Sometimes,500-1000,No
+26,Male,No,Never,26-100,No
+44,male,Yes,Always,26-100,Maybe
+27,male,No,Sometimes,100-500,No
+57,Female,Yes,Sometimes,100-500,Yes
+34,m,I don't know,Sometimes,,No
+38,Male,Yes,Sometimes,,Yes
+55,Male,I don't know,Always,,Maybe
+28,male,Yes,Sometimes,,Maybe
+35,Male,I don't know,Never,More than 1000,Maybe
+26,Male,I don't know,Always,100-500,Yes
+22,female,No,Never,6-25,Maybe
+31,Male,No,Sometimes,100-500,No
+31,male,No,Never,26-100,No
+40,Male,No,Sometimes,,No
+26,m,No,Sometimes,More than 1000,Yes
+36,M,Yes,Sometimes,1-5,Yes
+33,Male,Yes,Sometimes,26-100,Yes
+24,F,Yes,Sometimes,500-1000,Yes
+22,male,Yes,Sometimes,6-25,Maybe
+33,male,Yes,Always,6-25,Maybe
+37,f,No,Sometimes,More than 1000,Yes
+29,Male,No,Always,6-25,Maybe
+38,Male,I don't know,Sometimes,1-5,No
+33,m,Yes,Sometimes,1-5,Maybe
+44,Female,Yes,Always,1-5,Maybe
+23,Male,Yes,Sometimes,6-25,Yes
+30,M,No,Sometimes,,No
+30,Man,I don't know,Never,More than 1000,Yes
+28,male,No,Sometimes,26-100,No
+39,male,I don't know,Never,26-100,Maybe
+24,Female,Yes,Never,6-25,Yes
+27,Male,Yes,Always,,Yes
+35,Male,Yes,Sometimes,More than 1000,Yes
+23,Male,Yes,Never,6-25,Maybe
+37,M,Yes,Sometimes,More than 1000,No
+35,Male,No,Sometimes,6-25,No
+27,Male,I don't know,Sometimes,26-100,Maybe
+27,Female,Yes,Always,1-5,Maybe
+27,Female,No,Never,More than 1000,No
+42,m,Yes,Sometimes,6-25,Yes
+32,Sex is male,Yes,Never,6-25,No
+26,Male,Yes,Sometimes,6-25,Maybe
+28,Male,No,Never,100-500,No
+28,M,No,Sometimes,6-25,No
+32,Male,Yes,Sometimes,100-500,No
+43,male,I don't know,Always,,Yes
+34,Male,I don't know,Never,26-100,Yes
+61,f,No,Sometimes,6-25,Maybe
+50,Male,Yes,Always,,Yes
+38,Male,Yes,Sometimes,,Yes
+51,m,Yes,Sometimes,6-25,Yes
+38,male,No,Sometimes,,No
+34,male,Yes,Always,500-1000,Yes
+43,Male,No,Always,6-25,Maybe
+43,Female,No,Sometimes,100-500,Maybe
+44,Male,Yes,Always,6-25,Yes
+35,m,I don't know,Sometimes,100-500,Maybe
+50,Male,No,Always,26-100,No
+29,Male,No,Sometimes,100-500,Maybe
+29,Male,Yes,Never,100-500,Yes
+36,Male,I don't know,Sometimes,500-1000,No
+33,Male,Yes,Sometimes,,Maybe
+50,Male,No,Sometimes,,Maybe
+46,Male,No,Always,More than 1000,Maybe
+44,Female,Yes,Always,,Yes
+23,none of your business,Yes,Sometimes,More than 1000,Maybe
+41,Male,I don't know,Sometimes,6-25,Maybe
+31,male,No,Sometimes,More than 1000,Maybe
+55,male,Yes,Sometimes,1-5,Yes
+34,M,No,Sometimes,26-100,No
+28,Female,Yes,Always,6-25,Yes
+33,m,Yes,Sometimes,6-25,Yes
+29,Male,Yes,Sometimes,100-500,No
+33,Female,Yes,Sometimes,More than 1000,Yes
+28,male,I don't know,Sometimes,,No
+28,male,Yes,Sometimes,More than 1000,Yes
+32,Male,Yes,Sometimes,26-100,No
+36,female,Yes,Never,6-25,Maybe
+45,Male,No,Sometimes,More than 1000,Maybe
+29,M,No,Always,,No
+23,Male,No,Never,More than 1000,No
+54,Female,Yes,Always,,Maybe
+61,F,Yes,Sometimes,,Yes
+29,Female,Yes,Sometimes,26-100,Yes
+31,Male,I don't know,Sometimes,26-100,No
+37,M,No,Always,,No
+29,Male,Yes,Never,6-25,Maybe
+28,Male,No,Always,,No
+30,Male,No,Sometimes,26-100,Yes
+55,Male,No,Always,More than 1000,No
+38,Female,Yes,Never,6-25,Yes
+20,male,I don't know,Sometimes,6-25,No
+25,Male,Yes,Sometimes,100-500,No
+22,Male,I don't know,Always,,Maybe
+35,Male,No,Sometimes,,Yes
+27,male,I don't know,Never,26-100,Yes
+24,Male,Yes,Sometimes,6-25,Yes
+39,Male,No,Always,,Yes
+29,Male,I don't know,Never,26-100,Maybe
+40,Female,Yes,Never,26-100,Yes
+30,Male,Yes,Always,1-5,Maybe
+32,Male,No,Sometimes,26-100,No
+34,m,I don't know,Sometimes,,Maybe
+35,F,No,Sometimes,6-25,Yes
+30,Male,Yes,Sometimes,,Maybe
+36,Male,Yes,Never,6-25,No
+26,male,I don't know,Sometimes,26-100,No
+31,Female,Yes,Never,500-1000,No
+33,Male,Yes,Never,26-100,No
+30,Male,Yes,Sometimes,,Yes
+46,m,No,Always,26-100,Yes
+32,Male,Yes,Sometimes,100-500,No
+34,male,No,Sometimes,100-500,No
+41,male,Yes,Always,100-500,Yes
+32,Male,No,Always,100-500,No
+47,Male,Yes,Sometimes,More than 1000,No
+29,male,Yes,Always,100-500,No
+36,male,I don't know,Sometimes,100-500,No
+32,Male,Yes,Sometimes,100-500,Yes
+29,Male,Yes,Sometimes,100-500,Maybe
+22,Male,No,Never,1-5,No
+32,female,Yes,Sometimes,More than 1000,Yes
+19,Female,No,Never,More than 1000,No
+30,Male,No,Sometimes,6-25,No
+32,genderqueer,Yes,Always,6-25,Maybe
+22,M,No,Sometimes,More than 1000,No
+30,male,Yes,Always,,No
+323,Male,Yes,Sometimes,100-500,No
+33,male,No,Sometimes,6-25,No
+48,f,No,Never,6-25,No
+45,male,No,Never,More than 1000,No
+28,Male,Yes,Sometimes,26-100,No
+44,male,Yes,Sometimes,100-500,No
+31,Male,No,Sometimes,6-25,No
+31,f,I don't know,Sometimes,26-100,Yes
+29,Male,No,Never,More than 1000,No
+26,Male,No,Never,More than 1000,No
+35,f,Yes,Sometimes,100-500,Yes
+44,m,I don't know,Sometimes,,No
+45,male,Yes,Always,6-25,Yes
+22,Female,Yes,Sometimes,6-25,Yes
+34,Male,I don't know,Sometimes,100-500,Maybe
+35,Male,I don't know,Never,26-100,Maybe
+39,Male,Yes,Sometimes,,Yes
+26,Male,Yes,Never,6-25,Maybe
+41,Male,No,Sometimes,,No
+24,Male,Yes,Sometimes,More than 1000,Yes
+24,Male,Yes,Never,6-25,Yes
+34,male,No,Sometimes,26-100,Yes
+36,Male,No,Sometimes,26-100,No
+41,Male,Yes,Sometimes,500-1000,Maybe
+21,Male,No,Never,More than 1000,Yes
+33,Male,I don't know,Sometimes,100-500,Yes
+32,Male,Yes,Always,More than 1000,No
+62,Female,I don't know,Never,More than 1000,Yes
+37,M,Yes,Sometimes,26-100,Yes
+32,male,I don't know,Always,26-100,Maybe
+31,Male,No,Sometimes,More than 1000,No
+28,Male,Yes,Sometimes,6-25,Maybe
+48,Female,Yes,Always,,Yes
+40,male,Yes,Sometimes,,Yes
+29,Male,No,Never,26-100,Yes
+33,M,I don't know,Never,26-100,No
+27,Male,Yes,Sometimes,26-100,No
+24,m,No,Sometimes,26-100,No
+28,Male,Yes,Sometimes,,Yes
+42,Male,Yes,Always,1-5,Maybe
+28,m,No,Sometimes,26-100,No
+40,Male,Yes,Always,500-1000,Yes
+32,Female,Yes,Always,More than 1000,Maybe
+33,Male,No,Always,,Maybe
+40,m,No,Always,,Maybe
+26,Male,Yes,Never,6-25,Yes
+39,Female,Yes,Sometimes,100-500,Yes
+38,Male,No,Never,500-1000,Maybe
+34,Male,Yes,Sometimes,More than 1000,Yes
+44,Male,I don't know,Never,26-100,Yes
+54,Male,No,Always,,Maybe
+24,male,No,Always,100-500,No
+31,Male,Yes,Sometimes,6-25,Yes
+47,cis male,Yes,Sometimes,More than 1000,Yes
+30,Male,Yes,Sometimes,More than 1000,Yes
+34,M,I don't know,Always,,No
+29,Human,Yes,Sometimes,6-25,Yes
+27,Male,No,Sometimes,More than 1000,No
+29,male,No,Never,More than 1000,Yes
+43,Female,No,Sometimes,,Maybe
+31,Genderfluid,Yes,Sometimes,100-500,Yes
+27,Male,No,Never,6-25,Maybe
+29,M,No,Never,6-25,Yes
+29,Male,No,Never,6-25,No
+42,Male,I don't know,Sometimes,More than 1000,Yes
+26,Female,Yes,Always,6-25,No
+26,male,Yes,Sometimes,6-25,No
+34,Male,Yes,Sometimes,,Yes
+24,Male,I don't know,Sometimes,100-500,No
+25,male,No,Never,More than 1000,No
+22,M,No,Sometimes,6-25,No
+33,male,Yes,Sometimes,100-500,Yes
+53,m,No,Always,26-100,No
+32,M,Yes,Never,26-100,Yes
+32,male,No,Sometimes,6-25,No
+55,m,No,Sometimes,,Maybe
+27,male,No,Never,6-25,No
+34,Male,I don't know,Always,6-25,No
+26,Male,Yes,Sometimes,6-25,Yes
+25,,Yes,Never,26-100,Yes
+39,Male,Yes,Sometimes,More than 1000,Maybe
+32,male,No,Never,26-100,Maybe
+46,Male,No,Sometimes,,Maybe
+52,F,No,Sometimes,,No
+33,Enby,Yes,Never,500-1000,Maybe
+58,Male,No,Sometimes,26-100,No
+30,male,No,Never,6-25,Yes
+46,Malr,No,Sometimes,,No
+45,male,Yes,Sometimes,More than 1000,Yes
+26,f,Yes,Sometimes,1-5,No
+22,Male,Yes,Never,100-500,Yes
+21,Male,Yes,Sometimes,6-25,No
+3,Male,I don't know,Sometimes,More than 1000,Maybe
+34,m,No,Sometimes,500-1000,No
+25,female,No,Sometimes,26-100,No
+27,Male,Yes,Sometimes,6-25,Yes
+25,Female ,Yes,Never,26-100,Yes
+33,Male,I don't know,Sometimes,500-1000,Maybe
+26,Female,I don't know,Always,,Yes
+36,Female,Yes,Always,6-25,No
+26,Male,I don't know,Never,6-25,Maybe
+34,Male,I don't know,Never,6-25,Maybe
+34,Male,Yes,Sometimes,26-100,Yes
+25,Male,I don't know,Sometimes,More than 1000,Yes
+33,Female,Yes,Sometimes,,Maybe
+27,f,Yes,Sometimes,26-100,No
+24,Female,No,Never,26-100,No
+47,female,Yes,Sometimes,More than 1000,No
+37,Male,No,Sometimes,26-100,No
+35,genderqueer woman,I don't know,Sometimes,More than 1000,Yes
+30,Male,I don't know,Always,100-500,Yes
+42,male,No,Never,More than 1000,No
+36,Female,Yes,Sometimes,,Yes
+31,male,I don't know,Always,100-500,Maybe
+28,female,I don't know,Always,100-500,Maybe
+36,Female,I don't know,Sometimes,26-100,Yes
+36,Female,Yes,Never,6-25,Yes
+32,m,Yes,Sometimes,26-100,Maybe
+42,male,No,Always,,No
+41,Female,No,Never,100-500,Maybe
+36,Male,No,Sometimes,26-100,No
+23,Male,Yes,Sometimes,26-100,Yes
+54,Female,Yes,Never,More than 1000,Yes
+34,female,No,Never,26-100,No
+36,m,No,Never,6-25,No
+27,male,Yes,Never,1-5,No
+32,male,Yes,Always,100-500,Yes
+21,Male,I don't know,Never,6-25,Maybe
+44,m,No,Always,1-5,No
+33,m,I don't know,Always,26-100,Yes
+38,M,Yes,Sometimes,More than 1000,Yes
+38,Male,Yes,Sometimes,More than 1000,No
+38,female,I don't know,Always,,No
+22,Female,I don't know,Always,1-5,No
+33,mtf,I don't know,Sometimes,,Yes
+27,f,Yes,Never,More than 1000,No
+55,female,Yes,Sometimes,,Yes
+66,male,Yes,Sometimes,6-25,Yes
+25,Male,Yes,Sometimes,1-5,Maybe
+22,Male,I don't know,Never,26-100,No
+29,male,No,Sometimes,26-100,No
+33,Male,No,Never,100-500,No
+27,Male,I don't know,Never,6-25,No
+44,male,I don't know,Sometimes,6-25,Maybe
+38,Male,I don't know,Sometimes,,Yes
+32,M,No,Always,6-25,No
+59,female,No,Never,500-1000,No
+43,man,I don't know,Sometimes,,No
+55,female,No,Always,,Yes
+32,Male,Yes,Always,More than 1000,No
+41,male,I don't know,Never,More than 1000,Maybe
+38,f,Yes,Always,1-5,Yes
+46,Male,No,Sometimes,,Yes
+43,Male,Yes,Never,More than 1000,No
+29,Female,Yes,Always,100-500,Yes
+42,male,I don't know,Always,,No
+25,female ,No,Never,100-500,No
+49,Male,No,Never,26-100,Yes
+36,Male,Yes,Always,26-100,Yes
+30,Male,No,Always,,No
+28,Male,Yes,Sometimes,26-100,No
+37,m,Yes,Sometimes,More than 1000,Yes
+23,female,Yes,Sometimes,6-25,Yes
+37,Male,Yes,Sometimes,,No
+42,m,No,Always,,Yes
+32,male,Yes,Never,More than 1000,Yes
+28,Male,I don't know,Always,1-5,Maybe
+28,M,Yes,Never,More than 1000,Yes
+29,Male,Yes,Never,More than 1000,Yes
+35,Male,No,Always,100-500,Maybe
+31,Female,Yes,Sometimes,,Yes
+46,Female,Yes,Never,,Yes
+19,male,I don't know,Sometimes,,Maybe
+35,Male,I don't know,Always,500-1000,Maybe
+31,Male,I don't know,Sometimes,More than 1000,No
+31,Male,No,Sometimes,,No
+37,m,No,Always,More than 1000,No
+34,Female,Yes,Sometimes,6-25,Yes
+39,Woman,Yes,Sometimes,26-100,No
+29,Female,Yes,Always,,No
+29,female,Yes,Always,100-500,Yes
+63,Male,Yes,Sometimes,More than 1000,No
+45,male,No,Never,,Yes
+35,m,I don't know,Always,,Maybe
+32,Male,Yes,Always,,Maybe
+44,Male,I don't know,Always,,No
+28,Queer,Yes,Never,More than 1000,Yes
+39,male,No,Sometimes,,Maybe
+55,female,Yes,Sometimes,,Maybe
+33,female,Yes,Sometimes,,Yes
+19,Male,No,Always,6-25,No
+40,Male,Yes,Always,More than 1000,Maybe
+49,F,Yes,Sometimes,More than 1000,No
+27,Female,I don't know,Sometimes,6-25,No
+39,male,Yes,Never,More than 1000,Yes
+35,Male,No,Never,More than 1000,Yes
+35,M,I don't know,Sometimes,26-100,Maybe
+42,female,I don't know,Sometimes,26-100,Yes
+35,Male,No,Sometimes,6-25,No
+31,female,I don't know,Sometimes,100-500,No
+44,Male ,Yes,Always,,Yes
+39,Male,I don't know,Sometimes,100-500,Maybe
+32,Male,I don't know,Always,,No
+45,m,No,Sometimes,More than 1000,No
+31,m,No,Sometimes,,No
+47,Female,Yes,Sometimes,,Yes
+29,M,Yes,Sometimes,26-100,No
+20,Male,Yes,Always,6-25,No
+34,m,Yes,Never,100-500,No
+33,Agender,No,Never,500-1000,Yes
+56,female,Yes,Always,,Maybe
+35,Male,Yes,Sometimes,,Yes
+31,m,Yes,Sometimes,100-500,Yes
+36,Male,Yes,Sometimes,More than 1000,Yes
+30,Male,Yes,Always,100-500,Yes
+44,F,Yes,Never,More than 1000,Maybe
+23,Female,I don't know,Sometimes,1-5,Yes
+46,Male,No,Never,More than 1000,No
+33,female,Yes,Always,100-500,Yes
+32,female,Yes,Never,500-1000,Maybe
+45,Male,No,Sometimes,,Maybe
+26,male,I don't know,Sometimes,6-25,Yes
+32,Woman,No,Always,,No
+28,Dude,No,Sometimes,More than 1000,No
+44,M,No,Sometimes,,No
+42,Male,Yes,Always,,Maybe
+30,Male,No,Sometimes,More than 1000,No
+28,F,Yes,Sometimes,6-25,Maybe
+31,M,Yes,Always,100-500,Yes
+29,male,I don't know,Sometimes,100-500,Maybe
+33,Male,No,Sometimes,26-100,Maybe
+43,female,Yes,Always,More than 1000,Yes
+28,Male,No,Always,100-500,Maybe
+42,Fluid,I don't know,Always,,Maybe
+38,Male,Yes,Always,100-500,Yes
+30,Male,No,Sometimes,6-25,Maybe
+51,female,Yes,Sometimes,,Yes
+48,F,No,Never,26-100,No
+39,Male,I don't know,Always,,Maybe
+28,Male,No,Sometimes,6-25,No
+37,Male,Yes,Always,100-500,Maybe
+33,Male,I don't know,Sometimes,More than 1000,No
+21,Male,No,Never,6-25,Yes
+25,male,Yes,Sometimes,26-100,No
+15,male,No,Sometimes,,No
+40,Male,Yes,Always,100-500,Yes
+30,Female,Yes,Sometimes,100-500,Maybe
+27,Male,I don't know,Always,,Maybe
+25,male,No,Never,1-5,No
+38,Male,No,Sometimes,More than 1000,No
+24,Male,Yes,Never,100-500,Maybe
+23,Male,No,Never,6-25,No
+39,Female,Yes,Always,,Yes
+26,male,No,Sometimes,6-25,No
+43,Male,No,Never,More than 1000,No
+30,Male,Yes,Always,6-25,Maybe
+35,Male,No,Always,,Yes
+40,M,I don't know,Sometimes,26-100,Maybe
+33,Female,Yes,Never,26-100,Yes
+35,male,No,Sometimes,,Maybe
+22,Male,I don't know,Never,6-25,No
+28,Male,Yes,Always,100-500,Yes
+39,M,Yes,Sometimes,More than 1000,Yes
+33,M,I don't know,Always,100-500,No
+25,Female,No,Always,,No
+37,Male,No,Sometimes,6-25,No
+41,f,Yes,Never,500-1000,Yes
+30,Female,Yes,Sometimes,More than 1000,Yes
+42,Male,Yes,Sometimes,More than 1000,No
+52,Male,No,Sometimes,6-25,No
+30,male,No,Always,26-100,No
+35,Male,I don't know,Sometimes,500-1000,Yes
+24,Male,No,Sometimes,26-100,No
+39,Male,I don't know,Sometimes,6-25,No
+34,Male,Yes,Sometimes,6-25,No
+32,Male,Yes,Always,,No
+25,I'm a man why didn't you make this a drop down question. You should of asked sex? And I would of answered yes please. Seriously how much text can this take? ,Yes,Sometimes,,Maybe
+43,Male,I don't know,Never,26-100,Maybe
+39,male,No,Sometimes,6-25,No
+35,Male,Yes,Always,,Yes
+34,Male,Yes,Sometimes,26-100,Yes
+38,Male,No,Sometimes,More than 1000,No
+26,woman,I don't know,Always,100-500,Yes
+24,male,Yes,Sometimes,6-25,No
+27,Female,Yes,Sometimes,More than 1000,Yes
+25,male,No,Never,6-25,Yes
+37,m,No,Sometimes,,No
+33,Male,Yes,Sometimes,More than 1000,No
+34,Male,No,Sometimes,26-100,Yes
+27,Male,I don't know,Sometimes,26-100,Yes
+33,Male,Yes,Sometimes,100-500,Maybe
+50,mail,Yes,Sometimes,6-25,Yes
+54,female,Yes,Sometimes,,Yes
+32,female ,I don't know,Sometimes,More than 1000,No
+39,m,No,Sometimes,6-25,No
+36,Male,No,Sometimes,6-25,No
+34,Male,No,Sometimes,100-500,No
+31,female,Yes,Sometimes,100-500,Maybe
+36,male,Yes,Never,More than 1000,Maybe
+48,Male,I don't know,Sometimes,More than 1000,No
+31,male,Yes,Never,6-25,Maybe
+32,M,No,Always,1-5,No
+32,M,No,Always,100-500,No
+31,male,Yes,Always,,Yes
+28,Female,Yes,Sometimes,1-5,Yes
+28,male,Yes,Never,More than 1000,Yes
+33,F,Yes,Sometimes,26-100,Yes
+33,M,Yes,Never,,No
+59,M,No,Always,,Yes
+33,male,Yes,Sometimes,,Yes
+37,Male,I don't know,Always,100-500,Maybe
+27,female,No,Always,6-25,No
+39,Male,No,Always,More than 1000,Maybe
+50,M,Yes,Sometimes,,No
+34,Female,I don't know,Never,More than 1000,No
+50,male,No,Sometimes,,Maybe
+31,Female,I don't know,Always,6-25,Maybe
+39,male,Yes,Sometimes,More than 1000,Maybe
+46,Male,Yes,Sometimes,26-100,No
+28,M,No,Sometimes,More than 1000,Maybe
+32,male,No,Sometimes,26-100,No
+65,F,No,Sometimes,,Yes
+37,Male,Yes,Always,,Maybe
+41,Female,I don't know,Sometimes,,No
+38,Male,I don't know,Sometimes,,Yes
+51,male,No,Sometimes,26-100,Yes
+29,Male,I don't know,Sometimes,500-1000,Maybe
+37,Male,No,Always,,No
+31,Male,No,Always,,No
+32,Male,Yes,Sometimes,1-5,Maybe
+31,male,I don't know,Sometimes,,Yes
+52,m,Yes,Never,More than 1000,No
+31,male,Yes,Sometimes,,Yes
+38,F,No,Always,,No
+35,Male,I don't know,Never,More than 1000,Maybe
+29,Male,I don't know,Always,,No
+63,Male,No,Always,,No
+47,female,No,Always,,Yes
+43,M,Yes,Always,,Yes
+38,male,No,Sometimes,26-100,No
+27,Male,No,Never,6-25,Maybe
+40,Female,Yes,Always,6-25,Yes
+32,Male,No,Never,500-1000,No
+43,female,No,Always,,Maybe
+28,female,I don't know,Never,100-500,Yes
+46,Male,No,Always,,No
+42,male,Yes,Sometimes,More than 1000,No
+31,Male,Yes,Sometimes,1-5,Maybe
+37,F,No,Never,,Yes
+35,M,Yes,Never,6-25,Yes
+30,Female,No,Always,,Maybe
+35,Male,Yes,Sometimes,26-100,Yes
+24,Male,Yes,Never,26-100,Yes
+23,male,No,Sometimes,6-25,No
+39,Female,Yes,Always,,Maybe
+38,Male,No,Always,6-25,No
+28,Male,Yes,Always,,Yes
+30,m,No,Sometimes,,No
+38,Male,No,Always,,Maybe
+33,M,No,Sometimes,26-100,No
+35,Male,No,Sometimes,26-100,No
+54,M|,No,Never,,No
+30,female,I don't know,Never,100-500,No
+32,Female,I don't know,Always,,No
+28,male,Yes,Sometimes,500-1000,Maybe
+39,m,I don't know,Sometimes,6-25,No
+21,non-binary,Yes,Always,1-5,Yes
+31,male,Yes,Sometimes,6-25,No
+30,male,No,Sometimes,More than 1000,Maybe
+25,Female,No,Sometimes,26-100,No
+26,Male,No,Always,6-25,No
+30,male,No,Never,26-100,No
+30,M,No,Never,500-1000,No
+31,Male,No,Always,100-500,No
+32,M,Yes,Never,100-500,Yes
+45,female,Yes,Always,26-100,Yes
+29,Male,Yes,Sometimes,,Maybe
+27,Male,Yes,Always,26-100,Maybe
+28,Female,I don't know,Always,26-100,Yes
+38,m,Yes,Always,500-1000,No
+38,male,Yes,Sometimes,500-1000,Yes
+34,Male,Yes,Sometimes,More than 1000,No
+36,M,I don't know,Sometimes,,No
+23,male,No,Sometimes,6-25,No
+40,Female,Yes,Sometimes,100-500,Maybe
+39,Male,No,Always,,Yes
+28,Male,Yes,Never,26-100,Maybe
+33,male,No,Sometimes,6-25,No
+32,Male ,I don't know,Always,,Maybe
+32,Male,Yes,Never,More than 1000,Yes
+27,M,Yes,Never,More than 1000,Maybe
+33,Male,No,Never,100-500,No
+34,Male,Yes,Never,100-500,No
+38,f,I don't know,Sometimes,,Maybe
+35,M,I don't know,Never,More than 1000,No
+39,M,No,Sometimes,26-100,No
+35,male,No,Never,More than 1000,No
+34,Male,No,Sometimes,100-500,Yes
+44,Female,Yes,Always,,Yes
+42,M,No,Always,500-1000,No
+30,Male,No,Always,6-25,No
+55,Male,Yes,Never,26-100,Maybe
+46,m,Yes,Sometimes,26-100,Maybe
+33,male,Yes,Sometimes,100-500,Yes
+30,Male,Yes,Sometimes,26-100,Yes
+30,male,Yes,Sometimes,26-100,Yes
+31,Female,I don't know,Never,More than 1000,Maybe
+38,Male,No,Sometimes,More than 1000,Yes
+30,female,Yes,Sometimes,100-500,No
+32,Male,Yes,Sometimes,500-1000,Yes
+32,Male,I don't know,Never,More than 1000,Yes
+47,Male,Yes,Sometimes,26-100,Yes
+39,Male,I don't know,Always,6-25,Maybe
+35,Male,Yes,Sometimes,100-500,Yes
+36,Male,No,Sometimes,100-500,Yes
+38,female,No,Always,100-500,No
+30,Male,I don't know,Sometimes,100-500,Maybe
+33,Male,Yes,Sometimes,26-100,No
+22,male,Yes,Never,6-25,Yes
+35,m,No,Always,,Maybe
+26,m,I don't know,Never,26-100,No
+34,Male,No,Always,100-500,Maybe
+40,male,Yes,Sometimes,,Maybe
+37,male,No,Always,100-500,Yes
+43,M,No,Sometimes,1-5,No
+20,Male,I don't know,Sometimes,,Yes
+30,Female,Yes,Sometimes,500-1000,Yes
+32,Male,Yes,Sometimes,More than 1000,Maybe
+35,male,No,Always,More than 1000,No
+29,male,No,Sometimes,26-100,No
+29,male,I don't know,Never,500-1000,Maybe
+30,m,I don't know,Always,More than 1000,No
+30,male,Yes,Never,100-500,Yes
+38,Male,Yes,Always,100-500,Yes
+30,Male,Yes,Never,26-100,Maybe
+26,Male,Yes,Never,26-100,Yes
+27,Male,No,Always,,Yes
+24,Male,No,Always,1-5,No
+35,male,No,Never,100-500,No
+38,Male,No,Sometimes,More than 1000,Maybe
+36,Male/genderqueer,No,Sometimes,100-500,Yes
+34,Male,No,Always,,Yes
+35,Male,I don't know,Sometimes,26-100,Maybe
+25,Male,I don't know,Sometimes,6-25,No
+32,Female,No,Never,100-500,Maybe
+32,fem,Yes,Never,100-500,No
+37,male,Yes,Sometimes,,Maybe
+28,Male,No,Sometimes,100-500,Maybe
+34,Female,I don't know,Sometimes,500-1000,No
+40,Female,Yes,Never,More than 1000,Yes
+45,Male,I don't know,Never,More than 1000,No
+31,Male,Yes,Sometimes,100-500,No
+30,male,Yes,Sometimes,More than 1000,Yes
+47,female,No,Sometimes,More than 1000,No
+48,m,No,Sometimes,100-500,No
+44,Male,Yes,Sometimes,,Yes
+29,Male,Yes,Never,More than 1000,Maybe
+52,m,No,Always,More than 1000,No
+34,Female,No,Sometimes,100-500,No
+34,male,No,Never,100-500,No
+27,Male,No,Sometimes,More than 1000,No
+30,Male,I don't know,Sometimes,More than 1000,Maybe
+40,Male,Yes,Sometimes,6-25,Maybe
+26,Male,Yes,Always,,Yes
+36,Male,Yes,Never,,No
+35,Male,Yes,Always,26-100,Yes
+43,Female,No,Never,More than 1000,No
+36,Female,I don't know,Sometimes,26-100,Yes
+32,Female,No,Sometimes,100-500,No
+36,Female,No,Always,,No
+38,Male,Yes,Never,More than 1000,Yes
+35,Male,No,Always,More than 1000,Maybe
+35,F,Yes,Sometimes,100-500,Yes
+45,m,Yes,Always,More than 1000,Yes
+47,male,No,Always,,No
+27,male,Yes,Sometimes,100-500,No
+26,Male,Yes,Sometimes,26-100,No
+51,Male,No,Always,,No
+25,Male,Yes,Sometimes,26-100,Yes
+41,male,No,Sometimes,100-500,Maybe
+34,Male,No,Sometimes,More than 1000,No
+43,Male,Yes,Never,100-500,No
+33,Male,Yes,Never,26-100,Yes
+37,m,No,Sometimes,,No
+27,Female,Yes,Never,26-100,Yes
+54,F,Yes,Sometimes,,Yes
+38,m,Yes,Never,More than 1000,No
+42,male,I don't know,Sometimes,More than 1000,No
+30,Male,No,Sometimes,26-100,No
+43,M,Yes,Sometimes,500-1000,No
+33,Male,I don't know,Never,,Yes
+37,Female,Yes,Always,1-5,No
+25,male,No,Sometimes,100-500,Yes
+27,Male,Yes,Sometimes,More than 1000,Yes
+27,Male,Yes,Sometimes,,Yes
+27,Male,No,Never,More than 1000,Yes
+35,M,No,Sometimes,,Maybe
+24,male,No,Never,6-25,Maybe
+31,Nonbinary,Yes,Never,100-500,Yes
+31,male ,No,Sometimes,26-100,Maybe
+32,male,No,Sometimes,More than 1000,No
+33,Male,No,Sometimes,More than 1000,Yes
+56,M,Yes,Sometimes,,Yes
+43,Male,Yes,Sometimes,More than 1000,Maybe
+49,Male,I don't know,Sometimes,More than 1000,Yes
+35,male,No,Sometimes,26-100,No
+53,Male,No,Sometimes,More than 1000,No
+45,m,Yes,Never,100-500,Yes
+40,Male,I don't know,Sometimes,100-500,Maybe
+52,Male,Yes,Sometimes,More than 1000,No
+30,Male,I don't know,Always,,Maybe
+41,Male,No,Always,More than 1000,No
+31,male,I don't know,Always,,Maybe
+31,Male,I don't know,Sometimes,100-500,Maybe
+24,human,Yes,Sometimes,,Maybe
+44,Male,Yes,Sometimes,100-500,Maybe
+37,m,Yes,Sometimes,More than 1000,Yes
+22,Male,Yes,Always,6-25,Yes
+31,Female,Yes,Sometimes,26-100,Yes
+36,female,I don't know,Sometimes,26-100,Maybe
+28,Male,Yes,Always,,Yes
+25,female,Yes,Sometimes,500-1000,No
+49,male,I don't know,Always,,Maybe
+22,woman,Yes,Always,1-5,Yes
+43,male,No,Sometimes,,Yes
+33,m,Yes,Never,,Maybe
+36,"Female (props for making this a freeform field, though)",I don't know,Sometimes,500-1000,Maybe
+26,female,Yes,Sometimes,26-100,Yes
+43,Male,Yes,Sometimes,More than 1000,Yes
+21,male,Yes,Sometimes,,Maybe
+39,Male,Yes,Sometimes,More than 1000,No
+46,Male,I don't know,Sometimes,More than 1000,Yes
+32,M,Yes,Sometimes,1-5,No
+31,Male,No,Sometimes,,No
+39,female,Yes,Sometimes,,No
+44,m,I don't know,Sometimes,100-500,Maybe
+36,male,Yes,Never,More than 1000,Yes
+31,female,No,Never,More than 1000,No
+30,Nonbinary,Yes,Sometimes,,Yes
+36,male,Yes,Sometimes,100-500,Yes
+31,m,No,Sometimes,,No
+23,male,No,Never,1-5,No
+23,M,I don't know,Always,26-100,Yes
+30,Female ,Yes,Always,,Yes
+34,male,I don't know,Always,,No
+49,Female,No,Sometimes,6-25,No
+25,m,I don't know,Never,6-25,Maybe
+39,Male,No,Sometimes,6-25,Maybe
+37,male,No,Never,More than 1000,No
+26,Male,No,Sometimes,26-100,No
+41,Male,Yes,Sometimes,100-500,Yes
+28,Male,No,Never,6-25,No
+33,Male,I don't know,Sometimes,100-500,Maybe
+74, Female,No,Sometimes,100-500,No
+28,Male,Yes,Sometimes,100-500,Yes
+47,Male,Yes,Sometimes,6-25,Yes
+25,male,I don't know,Never,100-500,Maybe
+51,M,Yes,Never,100-500,No
+26,male,No,Never,More than 1000,Yes
+24,Male,Yes,Never,26-100,Maybe
+33,F,I don't know,Always,,Maybe
+32,Female ,Yes,Sometimes,26-100,Yes
+57,male,No,Always,6-25,No
+39,Male,Yes,Never,More than 1000,Yes
+26,Female,Yes,Sometimes,6-25,Yes
+38,Male,Yes,Sometimes,100-500,Maybe
+33,Male,Yes,Sometimes,1-5,No
+30,Male,Yes,Sometimes,6-25,Maybe
+25,Female ,Yes,Sometimes,100-500,Yes
+40,Male,Yes,Sometimes,26-100,Yes
+26,Female,Yes,Sometimes,More than 1000,Yes
+34,Male,Yes,Never,More than 1000,Yes
+46,F,Yes,Sometimes,More than 1000,Maybe
+31,female,Yes,Sometimes,More than 1000,Yes
+42,male,Yes,Never,,Yes
+30,Male,No,Sometimes,More than 1000,No
+26,Unicorn,Yes,Always,,Yes
+29,male,No,Never,1-5,Maybe
+31,M,Yes,Never,100-500,Yes
+40,Male,I don't know,Always,26-100,No
+39,Cis Male,I don't know,Always,26-100,Yes
+37,male,No,Sometimes,26-100,Maybe
+27,Male,No,Always,26-100,No
+45,m,No,Always,26-100,No
+29,M,Yes,Sometimes,26-100,No
+47,female,No,Sometimes,26-100,No
+33,male,No,Always,100-500,No
+32,Male,No,Always,26-100,No
+29,Male,No,Sometimes,26-100,No
+36,Male,Yes,Sometimes,26-100,Yes
+35,F,I don't know,Never,6-25,No
+40,Male,Yes,Always,26-100,No
+36,male,Yes,Always,26-100,Yes
+39,Female,I don't know,Sometimes,More than 1000,No
+38,Male,No,Always,26-100,Maybe
+23,Male,I don't know,Sometimes,1-5,Maybe
+29,male,Yes,Sometimes,500-1000,No
+38,Male,No,Always,100-500,No
+34,Female,Yes,Sometimes,More than 1000,Yes
+28,male,Yes,Never,More than 1000,Yes
+38,Male,Yes,Sometimes,6-25,Yes
+25,female,I don't know,Never,26-100,Maybe
+36,female,Yes,Sometimes,More than 1000,Yes
+57,Female,Yes,Sometimes,More than 1000,Yes
+46,male,Yes,Sometimes,More than 1000,No
+49,Male,Yes,Never,More than 1000,Yes
+34,m,No,Never,More than 1000,No
+43,Male,No,Sometimes,26-100,No
+35,m,No,Sometimes,,Yes
+32,Male,No,Always,,No
+24,"Male (trans, FtM)",I don't know,Sometimes,More than 1000,Yes
+33,Male,Yes,Sometimes,More than 1000,Yes
+28,Male,Yes,Never,1-5,Maybe
+48,Male,Yes,Sometimes,More than 1000,Maybe
+33,female,I don't know,Always,26-100,Yes
+40,male,No,Never,100-500,No
+22,Male,Yes,Sometimes,,Yes
+22,female,Yes,Never,100-500,Yes
+23,Female,I don't know,Sometimes,100-500,Yes
+33,male,Yes,Never,More than 1000,No
+29,Male,I don't know,Never,6-25,Maybe
+32,Male,No,Always,More than 1000,Yes
+43,m,Yes,Sometimes,26-100,Yes
+49,Male,Yes,Sometimes,More than 1000,Yes
+44,Male,No,Always,More than 1000,No
+29,Male,Yes,Always,,Yes
+27,male,Yes,Never,26-100,No
+30,Male,No,Never,6-25,Maybe
+43,F,Yes,Sometimes,1-5,No
+30,Female ,No,Sometimes,26-100,Yes
+33,Female,Yes,Sometimes,26-100,Yes
+27,Female,Yes,Sometimes,,Yes
+26,female,Yes,Never,6-25,Yes
+47,m,Yes,Sometimes,100-500,No
+30,Male,I don't know,Never,6-25,Yes
+39,Male,Yes,Never,6-25,No
+36,male,No,Never,100-500,Maybe
+34,male,Yes,Always,6-25,No
+25,female,Yes,Never,26-100,Yes
+28,Male,Yes,Sometimes,26-100,No
+38,Male,Yes,Sometimes,More than 1000,Yes
+39,Male,No,Always,100-500,No
+32,Male,I don't know,Never,6-25,Maybe
+27,female,Yes,Never,26-100,Yes
+31,female,Yes,Sometimes,500-1000,Yes
+30,female,No,Never,26-100,Maybe
+34,m,I don't know,Sometimes,,No
+26,Male,Yes,Always,26-100,Maybe
+27,Female,No,Always,100-500,No
+29,Male,No,Never,26-100,Yes
+37,Female,Yes,Always,,Maybe
+49,F,Yes,Always,,Yes
+39,Male,No,Sometimes,More than 1000,No
+42,m,No,Sometimes,,No
+28,Male,I don't know,Sometimes,500-1000,Yes
+33,Male,I don't know,Always,,Yes
+30,female,Yes,Sometimes,,No
+70,Male,I don't know,Always,26-100,Yes
+25,Male,Yes,Sometimes,6-25,Maybe
+45,Male,No,Sometimes,26-100,Yes
+63,F,I don't know,Never,More than 1000,Yes
+40,male,Yes,Always,26-100,Yes
+39,male,Yes,Sometimes,26-100,Yes
+31,Cis-woman,Yes,Always,6-25,Yes
+34,male,I don't know,Never,26-100,Yes
+44,Male,Yes,Sometimes,,Yes
+45,m,No,Always,500-1000,Maybe
+43,Male,Yes,Sometimes,100-500,Yes
+29,male,Yes,Always,26-100,No
+27,Genderqueer,Yes,Always,100-500,Yes
+37,Male,Yes,Always,100-500,Yes
+41,non-binary,Yes,Always,100-500,Yes
+30,woman,Yes,Sometimes,26-100,Yes
+28,male,Yes,Sometimes,26-100,Yes
+28,Male,No,Sometimes,More than 1000,No
+39,Male,Yes,Sometimes,,Yes
+22,male,Yes,Sometimes,6-25,Yes
+31,M,I don't know,Sometimes,26-100,No
+29,Male,I don't know,Never,26-100,No
+33,male,No,Never,100-500,Maybe
+37,male,No,Sometimes,100-500,No
+42,Male,No,Always,100-500,Maybe
+31,male,Yes,Never,6-25,Yes
+34,male,Yes,Always,,Yes
+49,F,I don't know,Always,,Yes
+29,male,Yes,Never,26-100,Maybe
+40,cisdude,No,Sometimes,More than 1000,Yes
+46,Female,Yes,Sometimes,26-100,Yes
+31,female,Yes,Always,,No
+43,Male,No,Sometimes,100-500,Maybe
+45,male,Yes,Sometimes,,No
+32,M,No,Sometimes,6-25,Maybe
+38,male,Yes,Sometimes,,Yes
+40,Male,Yes,Sometimes,More than 1000,Yes
+38,Male,I don't know,Never,26-100,Yes
+32,Male,I don't know,Never,100-500,Yes
+37,male,No,Sometimes,More than 1000,Maybe
+24,male,Yes,Sometimes,,Yes
+25,Female,Yes,Always,,Maybe
+24,Male,Yes,Sometimes,6-25,No
+34,Female,Yes,Sometimes,More than 1000,No
+55,male,Yes,Always,,Yes
+32,Male ,Yes,Sometimes,100-500,Yes
+29,male,No,Never,1-5,No
+20,Male,No,Sometimes,More than 1000,No
+41,male,Yes,Sometimes,More than 1000,Maybe
+33,female,Yes,Sometimes,6-25,Yes
+25,male,Yes,Sometimes,26-100,Maybe
+29,male,I don't know,Sometimes,,No
+24,Genderflux demi-girl,Yes,Sometimes,More than 1000,Yes
+39,Male,No,Sometimes,100-500,Yes
+39,Male,Yes,Sometimes,500-1000,No
+44,Man,I don't know,Sometimes,,No
+30,female,Yes,Sometimes,,Yes
+31,male,Yes,Sometimes,6-25,No
+37,Male,Yes,Always,1-5,Yes
+42,Male,Yes,Sometimes,6-25,Yes
+35,Male,I don't know,Always,,Maybe
+30,M,Yes,Never,26-100,No
+30,male,No,Always,More than 1000,No
+33,Male,Yes,Sometimes,26-100,Yes
+31,Male,I don't know,Never,More than 1000,Maybe
+39,Female,Yes,Sometimes,More than 1000,Yes
+27,m,No,Never,26-100,No
+34,male,No,Sometimes,,Yes
+31,Male,No,Sometimes,6-25,No
+30,Female,Yes,Always,More than 1000,Yes
+34,male,Yes,Sometimes,26-100,Yes
+20,female-bodied; no feelings about gender,I don't know,Never,6-25,Maybe
+39,Male,Yes,Never,,Yes
+50,female,Yes,Sometimes,More than 1000,Maybe
+22,Male,Yes,Never,1-5,Yes
+41,Male,I don't know,Sometimes,100-500,Maybe
+37,male,No,Sometimes,26-100,Maybe
+32,m,Yes,Sometimes,100-500,Yes
+26,M,Yes,Always,,Maybe
+38,M,Yes,Never,6-25,Yes
+21,Male,Yes,Always,,Maybe
+27,Male,Yes,Sometimes,6-25,Yes
+37,f,Yes,Sometimes,1-5,Yes
+45,male,I don't know,Always,,Maybe
+26,Male,No,Sometimes,,No
+30,Female,Yes,Sometimes,6-25,Maybe
+21,Male,Yes,Sometimes,More than 1000,Yes
+21,male,I don't know,Sometimes,More than 1000,Maybe
+29,male,No,Sometimes,,No
+46,male,No,Sometimes,More than 1000,No
+28,cis man,Yes,Sometimes,500-1000,Yes
+26,,Yes,Never,100-500,Yes
+37,Female,Yes,Always,,Yes
+44,Male,No,Sometimes,More than 1000,No
+45,F,Yes,Always,,Yes
+35,female,I don't know,Always,1-5,No
+39,Male,Yes,Never,26-100,Yes
+37,Female,No,Sometimes,More than 1000,No
+35,Male,No,Sometimes,100-500,No
+29,Female,Yes,Never,More than 1000,Yes
+49,f,I don't know,Never,,No
+21,Male (cis),I don't know,Sometimes,26-100,Yes
+26,Female,Yes,Sometimes,26-100,Maybe
+35,male,Yes,Never,100-500,Maybe
+56,M,No,Sometimes,100-500,Yes
+53,female,Yes,Always,,Yes
+48,f,Yes,Sometimes,,Yes
+24,male,No,Never,26-100,No
+37,Male,No,Never,More than 1000,Yes
+27,female,Yes,Never,26-100,Yes
+39,female,Yes,Sometimes,1-5,Yes
+31,male,No,Sometimes,,No
+34,Male,Yes,Always,100-500,Yes
+33,Male,Yes,Sometimes,More than 1000,Yes
+22,Male,I don't know,Never,1-5,Yes
+25,Female,I don't know,Sometimes,6-25,No
+34,Male,No,Never,More than 1000,No
+30,male,Yes,Sometimes,6-25,Maybe
+37,male,I don't know,Never,26-100,Maybe
+26,Male,No,Never,6-25,Yes
+29,female,No,Never,More than 1000,Maybe
+29,male,I don't know,Sometimes,6-25,No
+27,Male,Yes,Never,26-100,Yes
+27,female,Yes,Sometimes,6-25,No
+23,Male,No,Sometimes,More than 1000,No
+24,female,No,Sometimes,More than 1000,No
+22,male,I don't know,Sometimes,,Yes
+28,Male,No,Never,1-5,No
+22,Male,Yes,Never,6-25,Yes
+32,Male,Yes,Sometimes,26-100,Maybe
+35,female,No,Always,6-25,Yes
+26,Male,No,Sometimes,26-100,Yes
+31,female,I don't know,Sometimes,More than 1000,Yes
+32,male,Yes,Sometimes,,Yes
+37,Male,I don't know,Sometimes,100-500,Maybe
+24,Male,No,Never,6-25,Yes
+33,Male,No,Always,26-100,No
+28,Male,I don't know,Sometimes,100-500,Yes
+22,Female,I don't know,Sometimes,More than 1000,Maybe
+46,Male,Yes,Sometimes,100-500,Maybe
+30,Male,I don't know,Always,26-100,Maybe
+29,Male,No,Never,26-100,Yes
+22,Male,Yes,Sometimes,100-500,Yes
+24,Female,Yes,Sometimes,,Yes
+29,Female,No,Always,,Yes
+30,male,Yes,Sometimes,More than 1000,Maybe
+25,Male ,Yes,Always,,Maybe
+39,Male,No,Sometimes,More than 1000,No
+31,male,No,Always,,No
+25,Male,Yes,Sometimes,,Yes
+39,Male,I don't know,Sometimes,500-1000,No
+31,F,Yes,Always,More than 1000,Yes
+35,m,Yes,Sometimes,100-500,Maybe
+31,AFAB,No,Always,,Yes
+23,male,I don't know,Sometimes,More than 1000,Yes
+30,male,Yes,Never,More than 1000,Yes
+28,male,Yes,Sometimes,6-25,No
+23,Female,Yes,Never,More than 1000,Yes
+26,Female ,Yes,Never,26-100,Yes
+24,Female,Yes,Never,26-100,Maybe
+32,Male,No,Never,More than 1000,No
+35,Male,Yes,Always,,Yes
+30,Male,No,Sometimes,100-500,Maybe
+32,male,No,Sometimes,26-100,Yes
+35,Male,No,Never,6-25,Maybe
+26,F,I don't know,Always,26-100,Maybe
+30,Female,Yes,Sometimes,100-500,Yes
+29,male,I don't know,Never,26-100,Maybe
+39,male,No,Always,More than 1000,No
+37,Male,Yes,Never,More than 1000,Maybe
+35,M,No,Sometimes,26-100,No
+25,Female,Yes,Sometimes,1-5,Yes
+22,Agender,Yes,Never,More than 1000,Maybe
+33,Male,Yes,Never,26-100,Maybe
+23,male ,Yes,Sometimes,1-5,Yes
+29,male,Yes,Sometimes,,Yes
+28,Male,Yes,Always,26-100,Yes
+30,Male,Yes,Never,More than 1000,Yes
+28,Male,Yes,Sometimes,100-500,Yes
+28,female,Yes,Always,6-25,Maybe
+37,male,Yes,Never,More than 1000,Yes
+30,Male,Yes,Sometimes,26-100,Yes
+27,Male,Yes,Sometimes,6-25,Yes
+29,Male,Yes,Sometimes,,Yes
+28,Male,I don't know,Never,More than 1000,Maybe
+26,Transgender woman,Yes,Sometimes,6-25,Yes
+29,male,Yes,Sometimes,100-500,Yes
+34,m,No,Sometimes,,No
+36,Male,I don't know,Always,100-500,Yes
+38,Male,No,Never,26-100,Yes
+22,Female,No,Sometimes,6-25,Yes
+24,male,No,Sometimes,1-5,No
+24,female,Yes,Sometimes,100-500,Yes
+36,female,Yes,Never,500-1000,Yes
+24,Female,Yes,Never,More than 1000,Yes
+24,Male,No,Never,500-1000,No
+31,Male,Yes,Never,26-100,Yes
+39,M,No,Never,26-100,Yes
+41,male,Yes,Sometimes,More than 1000,Yes
+29,Male,I don't know,Always,,Maybe
+37,male,I don't know,Never,26-100,No
+30,male,No,Always,26-100,No
+24,Male,No,Sometimes,100-500,No
+22,female,I don't know,Sometimes,100-500,Yes
+24,Male,I don't know,Sometimes,100-500,Maybe
+26,Female,I don't know,Sometimes,100-500,Yes
+38,female,Yes,Always,500-1000,Yes
+34,Female ,Yes,Sometimes,,No
+56,MALE,Yes,Sometimes,,No
+52,Male,Yes,Sometimes,100-500,Maybe
+30,Female,Yes,Sometimes,100-500,Yes
+25,non-binary,I don't know,Sometimes,100-500,Yes
